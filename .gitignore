@@ -1,0 +1,30 @@
+## .NET build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+
+## Test results
+TestResults/
+*.trx
+
+## ASP.NET Core development certificates
+*.pfx
+
+## Local environment files
+.env
+.env.*
+
+## OS files
+.DS_Store
+Thumbs.db
