@@ -1,6 +1,5 @@
 using System.ComponentModel.DataAnnotations;
 using VideoGames_API.Models;
-using Xunit;
 
 namespace VideoGames_API.Tests.Models;
 
