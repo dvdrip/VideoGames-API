@@ -4,7 +4,6 @@ using Moq;
 using VideoGames_API.Controllers;
 using VideoGames_API.Data;
 using VideoGames_API.Models;
-using Xunit;
 
 namespace VideoGames_API.Tests.Controllers;
 
